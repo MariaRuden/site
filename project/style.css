@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Andale Mono", sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: #c7ba6b;
+    background-color: #FFF9EC;
+}
+
+h1 {
+    width: 455px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 84px;
+}
+
+
+h4 {
+    width: 455px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 84px;
+}
+.p {
+    width: 255px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 66px;
+    line-height: 84px;
+}
+
+
+.site-header {
+    min-width: 560px;
+    height: 200px;
+    margin-bottom: 160px;
+    padding-top: 15px;
+    background: #dbd3a4 no-repeat center url("project1/a.jpg");
+    background-size: cover;
+    color: #FFED40;
+}
+
+.site-header p {
+        width: 255px;
+        margin: 0 auto 26px;
+        text-align: center;
+        font-size: 16px;
+}
+
+.site-header img {
+        display: block;
+        margin: 0 auto;
+}
+
+.features {
+    width: 360px;
+    margin: 0 auto 30px;
+    padding: 0 20px;
+}
+
+    .features p {
+        display: inline-block;
+        vertical-align: top;
+        width: 30%;
+        margin: 0 5px;
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+
+.feature-furniture {
+    padding-top: 10px;
+    background-image: url("project1/ch.jpg");
+}
+
+.feature-fur {
+    padding-top: 65px;
+    background-image: url("project1/st.png");
+}
+
+
+.advantages {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+}
+
+.advantages-list {
+    padding: 0;
+}
+.advantages-lists {
+    padding: 0;
+    background-image: url("project1/w.jpg");
+}
+
+
+.advantages-listj {
+    padding: 0;
+}
+
+
+.advantages-lisp {
+    margin: 20;
+    padding: 40;
+    font-family: "Andale Mono", sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: #c7ba6b;
+    background-color: #FFF9EC;
+}
+.btn {
+    display: inline-block; 
+    background: #8C959D; 
+    color: #fff; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+
+
+.site-footer {
+    min-width: 550px;
+    background-color: #dbd3a4;
+    color: #ffffff;
+}
+
+.site-footer .container {
+        text-align: center;
+}
+
+.site-footer p {
+        display: inline-block;
+        vertical-align: middle;
+        padding: 0 20px;
+}
